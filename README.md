@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GrainRain0203/GrainRain0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GrainRain
 
-Here are some ideas to get you started:
+### AI · Multimodal · Vision · Computational Imaging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`PyTorch` · `Python` · `Computer Vision` · `Deep Learning`
+
+<br>
+
+> building models, reproducing papers,  
+> and occasionally figuring out why CUDA is out of memory.
+
+</div>
+
+---
+
+## About
+
+Hi, I'm **GrainRain**, an undergraduate student in Electronic Information Engineering at **Shenzhen University**.
+
+My current interests lie around **multimodal learning, computer vision, computational imaging, and image/video understanding**.
+
+I enjoy turning ideas from papers into working systems — reproducing models, building data pipelines, running experiments, debugging training behavior, and figuring out why a model behaves the way it does.
+
+```text
+research interests
+├── multimodal learning
+├── image & video understanding
+├── computational imaging
+├── SDR → HDR reconstruction
+├── video quality assessment
+└── image captioning
